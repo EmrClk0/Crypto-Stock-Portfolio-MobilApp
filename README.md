@@ -1,5 +1,6 @@
 # Crypto Stock Portfolio MobilApp
- <p style="color:red;">WARNING</p>
+
+ $${\color{red}WARNING}$$
  We used Coingecko free API in this project. Therefore, if you exceed the limit, you will receive an error.
  Since our server is down, enter your own server information in the dbHelper.dart file.
 
